@@ -18,7 +18,7 @@ Chaque étudiant est invité à analyser les cas proposés et à partager son op
 
 -Vous pouvez aussi commenter les opinions de vos camarades pour enrichir la discussion 💬.
 
-*Cas n°1 : La mère porteuse d’un embryon in vitro
+* Cas n°1 : La mère porteuse d’un embryon in vitro
 🧬 Contexte
 
 Une femme atteinte d’un cancer de l’utérus fait congeler ses ovocytes avant de subir une chirurgie qui la rend stérile.
@@ -34,7 +34,7 @@ Est-il moralement acceptable de recourir à une mère porteuse étrangère, souv
 
 L’enfant né par GPA doit-il être reconnu légalement dans le pays d’origine ?
 
-Quels principes bioéthiques sont en jeu (autonomie, justice, bienfaisance, non-malfaisance, dignité humaine) ?
+Quels principes (approches) éthiques sont en jeu ?
 
 Quelle est votre position personnelle face à ce cas ?
 
