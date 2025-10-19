@@ -38,6 +38,29 @@ Quels principes (approches) éthiques sont en jeu ?
 
 Quelle est votre position personnelle face à ce cas ?
 
-* Cas n°2 : (à venir)
+* Cas n°2 : Le don d’organes entre personnes vivantes – jusqu’où aller ?
+🧬Contexte :
+
+Youssef, 28 ans, apprend que son frère aîné souffre d’une insuffisance rénale terminale et a besoin d’une greffe urgente.
+Touché par sa situation, il décide de lui donner un de ses reins.
+Mais les médecins découvrent que Youssef présente des risques médicaux élevés : son autre rein est plus petit et ses antécédents familiaux ne sont pas rassurants.
+La famille est divisée : certains le soutiennent, d’autres pensent qu’il met sa propre vie en danger.
+Youssef, lui, insiste : « C’est mon choix. Mon frère a besoin de moi. »
+
+⚖️ Dilemme éthique :
+
+ -Faut-il respecter l’autonomie de Youssef, même s’il met sa santé en danger ?
+
+ -Jusqu’où un individu peut-il sacrifier son bien-être pour sauver un proche ?
+
+ -Le médecin doit-il accepter ou refuser le don, sachant les risques ?
+
+Questions pour la discussion :
+
+  1-Le don d’organes entre vivants doit-il être limité par la loi ou laissé au choix individuel ?
+
+  2-Le consentement éclairé suffit-il pour justifier une décision risquée ?
+
+  3-Le rôle du médecin est-il d’obéir à la volonté du patient ou de protéger sa santé ?
 
 
