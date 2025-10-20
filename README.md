@@ -1,4 +1,4 @@
-Études de cas – Bioéthique
+kiÉtudes de cas – Bioéthique
 🎯 Objectif du projet
 
 Ce dépôt regroupe plusieurs études de cas bioéthiques vues dans le cadre du module Bioéthique (Master VMIB – FST Settat).
