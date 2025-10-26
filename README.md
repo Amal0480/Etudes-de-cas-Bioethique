@@ -55,12 +55,15 @@ Youssef, lui, insiste : « C’est mon choix. Mon frère a besoin de moi. »
 
  -Le médecin doit-il accepter ou refuser le don, sachant les risques ?
 
-Questions pour la discussion :
+* Cas n°3 : Euthanasie / demande d'arrêt de la vie
 
-  1-Le don d’organes entre vivants doit-il être limité par la loi ou laissé au choix individuel ?
+🧬 Contexte
+Mme Fatima, 72 ans, est atteinte d'un cancer métastatique résistant aux traitements. Elle souffre de douleurs intenses malgré une prise en charge palliative. Après plusieurs semaines, elle demande explicitement au médecin une **injection létale** pour mettre fin à ses souffrances. Sa famille est partagée : certains soutiennent son choix, d'autres s'y opposent. Dans le pays où elle vit, l'**euthanasie active est illégale** mais les soins palliatifs et la sédation profonde sont autorisés.
 
-  2-Le consentement éclairé suffit-il pour justifier une décision risquée ?
-
-  3-Le rôle du médecin est-il d’obéir à la volonté du patient ou de protéger sa santé ?
+⚖️ Dilemme éthique
+- Respecter l'**autonomie** de Mme Fatima et répondre à son souhait de mourir dignement ?  
+- Ou respecter la **loi** et le devoir médical de ne pas provoquer la mort (principe déontologique) ?  
+- Quelle différence morale entre **sédation profonde** (qui soulage mais peut hâter la mort) et **euthanasie active** (injection létale) ?  
+- Quel rôle pour la famille, la société et l'État dans ce choix ?
 
 
