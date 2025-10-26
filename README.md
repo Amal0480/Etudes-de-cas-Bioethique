@@ -19,6 +19,7 @@ Chaque étudiant est invité à analyser les cas proposés et à partager son op
 -Vous pouvez aussi commenter les opinions de vos camarades pour enrichir la discussion 💬.
 
 * Cas n°1 : La mère porteuse d’un embryon in vitro
+  
 🧬 Contexte
 
 Une femme atteinte d’un cancer de l’utérus fait congeler ses ovocytes avant de subir une chirurgie qui la rend stérile.
@@ -38,7 +39,8 @@ Quels principes (approches) éthiques sont en jeu ?
 
 Quelle est votre position personnelle face à ce cas ?
 
-* Cas n°2 : Le don d’organes entre personnes vivantes – jusqu’où aller ?
+* Cas n°2 : Le don d’organes entre personnes vivantes 
+  
 🧬Contexte :
 
 Youssef, 28 ans, apprend que son frère aîné souffre d’une insuffisance rénale terminale et a besoin d’une greffe urgente.
@@ -58,9 +60,11 @@ Youssef, lui, insiste : « C’est mon choix. Mon frère a besoin de moi. »
 * Cas n°3 : Euthanasie / demande d'arrêt de la vie
 
 🧬 Contexte
+
 Mme Fatima, 72 ans, est atteinte d'un cancer métastatique résistant aux traitements. Elle souffre de douleurs intenses malgré une prise en charge palliative. Après plusieurs semaines, elle demande explicitement au médecin une **injection létale** pour mettre fin à ses souffrances. Sa famille est partagée : certains soutiennent son choix, d'autres s'y opposent. Dans le pays où elle vit, l'**euthanasie active est illégale** mais les soins palliatifs et la sédation profonde sont autorisés.
 
 ⚖️ Dilemme éthique
+
 - Respecter l'**autonomie** de Mme Fatima et répondre à son souhait de mourir dignement ?  
 - Ou respecter la **loi** et le devoir médical de ne pas provoquer la mort (principe déontologique) ?  
 - Quelle différence morale entre **sédation profonde** (qui soulage mais peut hâter la mort) et **euthanasie active** (injection létale) ?  
