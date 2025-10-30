@@ -69,5 +69,14 @@ Mme Fatima, 72 ans, est atteinte d'un cancer métastatique résistant aux traite
 - Ou respecter la **loi** et le devoir médical de ne pas provoquer la mort (principe déontologique) ?  
 - Quelle différence morale entre **sédation profonde** (qui soulage mais peut hâter la mort) et **euthanasie active** (injection létale) ?  
 - Quel rôle pour la famille, la société et l'État dans ce choix ?
-
+  
+* Cas n°4— Marie Curie
+  
+  *affirmations* :
+- Marie Curie a développé des recherches pionnières sur la radioactivité.  
+- Elle a travaillé malgré des risques pour sa santé.  
+- Elle a ouvert des portes aux femmes en science.
+  
+Lisez les affirmations sur Marie Curie, et rédigez une analyse éthique pragmatique.
+ *But* : mobiliser l’éthique pragmatique + une autre approche éthique (déontologie OU conséquentialisme OU éthique de la vertu) pour produire une recommandation pratique.
 
