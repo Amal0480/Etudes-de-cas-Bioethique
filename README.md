@@ -70,7 +70,7 @@ Mme Fatima, 72 ans, est atteinte d'un cancer métastatique résistant aux traite
 - Quelle différence morale entre **sédation profonde** (qui soulage mais peut hâter la mort) et **euthanasie active** (injection létale) ?  
 - Quel rôle pour la famille, la société et l'État dans ce choix ?
   
-* Cas n°4— Marie Curie
+  * Cas n°4— Marie Curie
   
   *affirmations* :
 - Marie Curie a développé des recherches pionnières sur la radioactivité.  
